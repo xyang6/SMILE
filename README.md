@@ -10,6 +10,9 @@ MATLAB R2018a or later
 - The file main.m shows how to implement the SMILE method. 
 - The file fun_SMILE.m file is the main function. 
 
+## Results
+Classification accuracy on the Australian dataset: mean value - 85.98%, standard deviation - 0.71%
+
 ## Version history
 
 - v1 (21/10/2020): initial release.
